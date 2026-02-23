@@ -1,0 +1,2 @@
+# Excel-Sales-Performance-Dashboard-Targets-KPIs-Pivot-Reports-
+Sales Performance Dashboard is built entirely in Microsoft Excel using designing a well-structured data source.  It converts daily sales entries into clear KPIs, performance rankings, and management-ready reports using Pivot Tables and formulas.  The focus of this project is sales tracking, monitoring, and salesperson performance analysis.
